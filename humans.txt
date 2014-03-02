@@ -5,6 +5,7 @@
 	Developer: Matthew Juffs
 	Site: http://slickhouse.com/
 	Twitter: https://twitter.com/slickhouse
+	GitHub: https://github.com/mattjuffs
 	Location: Lincoln, UK
 
 # THANKS AND INFLUENCES
