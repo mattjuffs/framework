@@ -1,4 +1,4 @@
-framework
+Framework
 =========
 
 Slickhouse framework is an HTML5, CSS3 and jQuery collection of files for use in all future Slickhouse projects. It started as HTML5 Boilerplate, with a sprinkling of Bootstrap grids and evolved into what you see on the screen.
