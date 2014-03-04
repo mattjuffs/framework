@@ -1,7 +1,3 @@
-/*
-    Author: Matthew Juffs
-*/
-
 // executes when HTML-Document is loaded and DOM is ready
 $(document).ready(function () {
 
