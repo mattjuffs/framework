@@ -5,6 +5,8 @@ Slickhouse framework is an HTML5, CSS3 and jQuery collection of files for use in
 
 Using the latest browser technologies, it will allow for continuous improvements of the look and feel of Slickhouse. Feel free to use it within your own projects and contribute to help.
 
+A live demo of the framework can be found at http://framework.slickhouse.com/
+
 Features
 ========
 
