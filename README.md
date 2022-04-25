@@ -7,7 +7,7 @@ Using the latest browser technologies, it will allow for continuous improvements
 
 Feel free to use it within your own projects and contribute to help.
 
-A live demo of the framework can be found at http://slickhouse.com/framework/framework.html
+A live demo of the framework can be found at https://slickhouse.com/framework
 
 The framework is also used in [SlickCMS](https://github.com/mattjuffs/slickcms).
 
