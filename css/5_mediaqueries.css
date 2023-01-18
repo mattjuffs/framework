@@ -50,7 +50,7 @@ ul.mobileMenu {display: none;}
     #search {display: none;}
 	header div#search input[type="search"] {width: 100px;}
     
-    #container {width: 100%; overflow: hidden;}
+    #container {width: 100%; overflow: hidden; margin: 0 0 70px 0;}
 
 	h1 {font-size: 48px;}
     h1 {margin: 0.5em 0 0.5em 0;}
